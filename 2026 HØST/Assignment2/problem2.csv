@@ -1,0 +1,501 @@
+passenger_id,name,sex,age,role,ship,destination,clan_origin,armor,provisions_kg,family_aboard,prior_voyages,survived
+1,Finn Ulfsson,Male,25.0,Thrall,Bison,Lindisfarne,Borg,None,2.0,3,0,0
+2,Styrbjörn Bjørnsson,Male,41.0,Karl,Ormen Lange,Normandy,Kaupang,None,4.3,0,2,0
+3,Bjørn Sigurdsson,Male,29.0,Hirdman,Sjøulven,Iceland,Borg,Chainmail,132.2,1,3,1
+4,Runa Bjørnsdóttir,Female,32.0,Thrall,Ormen Lange,Normandy,Nidaros,,2.7,1,0,0
+5,Dag Sigurdsson,Male,26.0,Karl,Sjøulven,Lindisfarne,Nidaros,Leather,35.7,3,2,0
+6,Ketil Grimsson,Male,32.0,Karl,Bison,Iceland,Nidaros,None,30.0,0,0,1
+7,Liv Ulfsdóttir,Female,43.0,Karl,Ormen Lange,Iceland,Nidaros,Leather,2.3,3,1,1
+8,Ivar Bjørnsson,Male,,Karl,Bison,Lindisfarne,Nidaros,Leather,15.1,1,0,0
+9,Kolbjørn Grimsson,Male,42.0,Karl,Hrafnkell,Lindisfarne,Nidaros,None,23.5,2,0,0
+10,Ragnhild Sigurdsdóttir,Female,23.0,Karl,Ormen Lange,Miklagard,Nidaros,Leather,31.8,1,2,1
+11,Ingrid Bjørnsdóttir,Female,41.0,Karl,Ormen Lange,Miklagard,Borg,,52.2,0,3,1
+12,Ragnar Haraldsson,Male,29.0,Karl,Ormen Lange,Normandy,Borg,None,24.8,3,1,0
+13,Ulf Grimsson,Male,32.0,Karl,Drakvinge,Iceland,Borg,,33.9,0,1,0
+14,Hilde Sigurdsdóttir,Female,28.0,Thrall,Hrafnkell,Lindisfarne,Nidaros,None,3.9,3,0,1
+15,Freya Sigurdsdóttir,Female,28.0,Karl,Ormen Lange,Normandy,Borg,,24.0,2,0,1
+16,Orm Sigurdsson,Male,35.0,Karl,Bison,Lindisfarne,Borg,None,5.8,3,1,0
+17,Astrid Ketilsdóttir,Female,52.0,Jarl,Ormen Lange,Iceland,Nidaros,Lamellar,107.7,0,3,1
+18,Gunnar Ragnarsson,Male,53.0,Karl,Bison,Vinland,Nidaros,None,3.1,1,0,0
+19,Finn Sigurdsson,Male,44.0,Jarl,Hrafnkell,Iceland,Nidaros,Lamellar,2.0,1,8,1
+20,Thyra Sigurdsdóttir,Female,14.0,Thrall,Hrafnkell,Lindisfarne,Kaupang,None,8.6,1,1,1
+21,Geir Sigurdsson,Male,,Hirdman,Ormen Lange,Iceland,Kaupang,None,27.7,0,1,1
+22,Liv Arnesdóttir,Female,,Thrall,Sjøulven,Vinland,Borg,None,2.8,2,0,0
+23,Gunnhild Sigurdsdóttir,Female,,Karl,Ormen Lange,Miklagard,Nidaros,,40.1,3,2,1
+24,Freya Bjørnsdóttir,Female,46.0,Thrall,Bison,Normandy,Borg,None,12.5,1,2,1
+25,Thorvald Ormsson,Male,29.0,Thrall,Bison,Normandy,Nidaros,None,10.5,1,0,0
+26,Geir Ketilsson,Male,,Karl,Ormen Lange,Normandy,Nidaros,Leather,43.5,1,0,0
+27,Håkon Sigurdsson,Male,24.0,Thrall,Bison,Normandy,Nidaros,None,3.7,4,0,0
+28,Arne Sigurdsson,Male,,Karl,Ormen Lange,Normandy,Nidaros,None,13.9,2,1,1
+29,Knut Ulfsson,Male,23.0,Karl,Sjøulven,Vinland,Nidaros,,17.1,0,0,0
+30,Thorvald Sigurdsson,Male,24.0,Hirdman,Hrafnkell,Miklagard,Nidaros,,86.4,0,0,1
+31,Eirik Torsteinsson,Male,20.0,Thrall,Drakvinge,Vinland,Kaupang,,12.6,1,0,0
+32,Jarle Ormsson,Male,22.0,Hirdman,Sjøulven,Iceland,Kaupang,,70.8,1,0,0
+33,Finn Ragnarsson,Male,,Thrall,Bison,Iceland,Kaupang,,2.5,0,2,0
+34,Aud Ketilsdóttir,Female,37.0,Karl,Hrafnkell,Lindisfarne,Nidaros,,77.7,2,1,1
+35,Halvor Torsteinsson,Male,25.0,Hirdman,Sjøulven,Miklagard,Nidaros,,10.8,2,1,0
+36,Gudrun Bjørnsdóttir,Female,33.0,Hirdman,Ormen Lange,Lindisfarne,Nidaros,,34.3,0,4,1
+37,Gunnhild Ketilsdóttir,Female,21.0,Thrall,Sjøulven,Iceland,Borg,None,17.8,2,2,0
+38,Thyra Bjørnsdóttir,Female,17.0,Karl,Ormen Lange,Miklagard,Nidaros,Leather,34.3,1,0,1
+39,Jorunn Sigurdsdóttir,Female,28.0,Karl,Sjøulven,Iceland,Nidaros,None,2.0,3,1,0
+40,Ragnhild Haraldsdóttir,Female,29.0,Hirdman,Bison,Normandy,Nidaros,None,19.5,2,5,1
+41,Thyra Torsteinsdóttir,Female,31.0,Karl,Sjøulven,Miklagard,Nidaros,None,41.1,1,0,0
+42,Sven Ulfsson,Male,14.0,Karl,Sjøulven,Miklagard,Nidaros,None,2.0,0,0,0
+43,Ingrid Bjørnsdóttir,Female,22.0,Hirdman,Hrafnkell,Iceland,Nidaros,Chainmail,13.2,5,1,1
+44,Håkon Ormsson,Male,19.0,Thrall,Drakvinge,Iceland,Borg,None,25.1,2,0,0
+45,Erling Bjørnsson,Male,32.0,Karl,Hrafnkell,Miklagard,Kaupang,,16.8,0,3,0
+46,Thorvald Grimsson,Male,26.0,Hirdman,Bison,Lindisfarne,Nidaros,,22.3,4,5,1
+47,Geir Sigurdsson,Male,29.0,Hirdman,Drakvinge,Normandy,Nidaros,Chainmail,13.2,2,2,1
+48,Thorvald Sigurdsson,Male,40.0,Thrall,Bison,Vinland,Borg,None,10.1,0,0,0
+49,Erling Ragnarsson,Male,17.0,Karl,Drakvinge,Lindisfarne,Kaupang,None,17.9,0,1,1
+50,Gunnhild Ragnarsdóttir,Female,20.0,Hirdman,Ormen Lange,Lindisfarne,Borg,None,75.4,0,6,1
+51,Arne Ketilsson,Male,49.0,Karl,Drakvinge,Iceland,Nidaros,Leather,4.1,1,4,0
+52,Ragnhild Ragnarsdóttir,Female,36.0,Karl,Ormen Lange,Normandy,Nidaros,Leather,9.6,0,1,1
+53,Åsa Arnesdóttir,Female,35.0,Karl,Drakvinge,Lindisfarne,Borg,,9.9,1,1,1
+54,Thorvald Ulfsson,Male,31.0,Thrall,Sjøulven,Miklagard,Kaupang,,4.7,1,0,0
+55,Sigurd Ulfsson,Male,26.0,Karl,Drakvinge,Vinland,Borg,Leather,17.4,0,1,0
+56,Ragnar Grimsson,Male,28.0,Hirdman,Sjøulven,Miklagard,Nidaros,Chainmail,178.1,3,8,1
+57,Tove Ulfsdóttir,Female,20.0,Thrall,Ormen Lange,Lindisfarne,Nidaros,,10.4,1,1,1
+58,Harald Ormsson,Male,26.0,Thrall,Bison,Lindisfarne,Nidaros,None,6.9,0,0,0
+59,Finn Sigurdsson,Male,37.0,Hirdman,Ormen Lange,Vinland,Nidaros,None,8.6,1,5,1
+60,Ulf Grimsson,Male,25.0,Karl,Bison,Miklagard,Borg,,3.1,2,3,0
+61,Kolbjørn Ulfsson,Male,12.0,Thrall,Drakvinge,Lindisfarne,Nidaros,,3.8,1,0,0
+62,Rollo Bjørnsson,Male,25.0,Hirdman,Sjøulven,Normandy,,,12.4,0,6,0
+63,Liv Ulfsdóttir,Female,,Hirdman,Bison,Lindisfarne,Nidaros,,2.0,0,3,1
+64,Knut Ketilsson,Male,24.0,Hirdman,Drakvinge,Vinland,Nidaros,Leather,21.5,1,6,1
+65,Jorunn Torsteinsdóttir,Female,29.0,Hirdman,Bison,Normandy,Borg,,39.5,0,5,1
+66,Ivar Sigurdsson,Male,30.0,Hirdman,Bison,Normandy,Nidaros,Leather,16.8,2,7,0
+67,Harald Ketilsson,Male,38.0,Hirdman,Drakvinge,Iceland,Kaupang,,41.0,0,4,1
+68,Sigurd Ragnarsson,Male,33.0,Hirdman,Hrafnkell,Iceland,Nidaros,Chainmail,2.0,1,5,1
+69,Torstein Sigurdsson,Male,,Thrall,Drakvinge,Normandy,Borg,None,2.1,1,0,0
+70,Aud Bjørnsdóttir,Female,37.0,Karl,Sjøulven,Miklagard,Kaupang,None,4.1,2,2,0
+71,Leif Ulfsson,Male,55.0,Jarl,Ormen Lange,Lindisfarne,Kaupang,Chainmail,46.9,3,4,1
+72,Sven Ulfsson,Male,32.0,Karl,Hrafnkell,Iceland,Nidaros,None,2.0,1,2,0
+73,Håkon Grimsson,Male,24.0,Karl,Ormen Lange,Vinland,Nidaros,None,17.8,1,2,0
+74,Eirik Grimsson,Male,46.0,Karl,Drakvinge,Miklagard,Borg,Leather,21.1,2,3,0
+75,Jorunn Ulfsdóttir,Female,47.0,Karl,Bison,Vinland,Nidaros,None,27.1,0,1,0
+76,Styrbjörn Ragnarsson,Male,18.0,Hirdman,Hrafnkell,Miklagard,Nidaros,None,14.1,2,3,1
+77,Finn Grimsson,Male,27.0,Karl,Bison,Miklagard,Kaupang,Leather,9.4,1,4,1
+78,Runa Ulfsdóttir,Female,33.0,Karl,Sjøulven,Normandy,Kaupang,,79.3,1,1,0
+79,Gudrun Arnesdóttir,Female,41.0,Hirdman,Bison,Iceland,Nidaros,Chainmail,20.4,1,4,1
+80,Sigurd Torsteinsson,Male,42.0,Karl,Ormen Lange,Miklagard,Nidaros,None,81.7,0,0,0
+81,Jarle Torsteinsson,Male,36.0,Karl,Drakvinge,Iceland,Borg,Leather,33.3,2,1,0
+82,Styrbjörn Ulfsson,Male,,Karl,Ormen Lange,Lindisfarne,Borg,,24.2,2,2,0
+83,Jarle Torsteinsson,Male,30.0,Karl,Ormen Lange,Lindisfarne,Nidaros,None,16.4,0,2,1
+84,Gunnar Ragnarsson,Male,19.0,Karl,Drakvinge,Normandy,Nidaros,Leather,20.9,1,1,0
+85,Thyra Sigurdsdóttir,Female,25.0,Hirdman,Hrafnkell,Normandy,Kaupang,Chainmail,5.2,1,3,1
+86,Ketil Sigurdsson,Male,,Karl,Bison,Iceland,Nidaros,,2.0,2,1,0
+87,Thyra Ulfsdóttir,Female,33.0,Hirdman,Ormen Lange,Lindisfarne,Nidaros,Leather,112.8,1,7,1
+88,Styrbjörn Haraldsson,Male,,Karl,Sjøulven,Lindisfarne,Nidaros,Leather,5.2,1,2,0
+89,Bjørn Torsteinsson,Male,35.0,Hirdman,Hrafnkell,Vinland,Nidaros,Chainmail,8.1,0,6,0
+90,Jorunn Bjørnsdóttir,Female,37.0,Karl,Ormen Lange,Iceland,Nidaros,Leather,20.0,0,2,1
+91,Finn Bjørnsson,Male,31.0,Karl,Drakvinge,Lindisfarne,Borg,Leather,82.1,1,3,1
+92,Håkon Sigurdsson,Male,27.0,Hirdman,Sjøulven,Normandy,Borg,Chainmail,267.3,0,3,0
+93,Runa Bjørnsdóttir,Female,40.0,Karl,Sjøulven,Normandy,Nidaros,None,54.0,1,1,0
+94,Runa Torsteinsdóttir,Female,20.0,Thrall,Hrafnkell,Normandy,Kaupang,None,21.8,1,0,1
+95,Grim Ketilsson,Male,17.0,Hirdman,Bison,Iceland,Nidaros,None,12.9,0,3,1
+96,Erling Ketilsson,Male,40.0,Karl,Ormen Lange,Normandy,Nidaros,Leather,8.3,1,0,0
+97,Solveig Torsteinsdóttir,Female,14.0,Karl,Bison,Iceland,,None,25.2,2,3,1
+98,Olav Ragnarsson,Male,15.0,Thrall,Bison,Iceland,Nidaros,None,18.3,0,0,0
+99,Sven Grimsson,Male,27.0,Hirdman,Ormen Lange,Iceland,Kaupang,Chainmail,51.9,1,7,1
+100,Helga Arnesdóttir,Female,28.0,Hirdman,Ormen Lange,Vinland,Nidaros,Leather,2.1,0,2,1
+101,Erling Bjørnsson,Male,,Thrall,Drakvinge,Vinland,Nidaros,None,2.7,0,1,0
+102,Arne Torsteinsson,Male,42.0,Karl,Ormen Lange,Miklagard,Nidaros,Leather,14.2,1,4,0
+103,Astrid Arnesdóttir,Female,22.0,Karl,Drakvinge,Lindisfarne,Nidaros,Leather,14.1,2,2,1
+104,Ragnar Haraldsson,Male,,Karl,Drakvinge,Normandy,Nidaros,None,12.4,0,0,0
+105,Hilde Bjørnsdóttir,Female,,Karl,Hrafnkell,Normandy,Kaupang,,7.9,0,1,1
+106,Trygve Ketilsson,Male,31.0,Karl,Hrafnkell,Normandy,Borg,Leather,20.9,1,2,1
+107,Dag Torsteinsson,Male,,Hirdman,Hrafnkell,Iceland,Borg,,41.5,1,5,1
+108,Håkon Torsteinsson,Male,33.0,Karl,Drakvinge,Miklagard,Nidaros,None,15.7,2,2,0
+109,Sigurd Haraldsson,Male,34.0,Karl,Hrafnkell,Miklagard,Nidaros,None,33.3,3,2,1
+110,Eirik Torsteinsson,Male,8.0,Thrall,Sjøulven,Normandy,Kaupang,None,2.0,1,0,0
+111,Bjørn Sigurdsson,Male,32.0,Karl,Bison,Normandy,Kaupang,Leather,3.1,1,0,0
+112,Ingrid Bjørnsdóttir,Female,37.0,Karl,Drakvinge,Iceland,Nidaros,None,8.5,0,3,1
+113,Gunnar Ketilsson,Male,40.0,Karl,Ormen Lange,Iceland,Nidaros,None,2.7,2,3,0
+114,Ingrid Bjørnsdóttir,Female,25.0,Thrall,Sjøulven,Normandy,Nidaros,None,2.0,1,0,0
+115,Runa Haraldsdóttir,Female,30.0,Karl,Ormen Lange,Normandy,Borg,Leather,54.9,1,0,1
+116,Ingrid Ragnarsdóttir,Female,29.0,Karl,Hrafnkell,Normandy,,None,6.5,0,3,1
+117,Sigurd Ragnarsson,Male,36.0,Karl,Drakvinge,Lindisfarne,Borg,,2.0,0,1,0
+118,Sigurd Ketilsson,Male,49.0,Jarl,Sjøulven,Normandy,Borg,Chainmail,13.8,0,5,1
+119,Erling Torsteinsson,Male,16.0,Karl,Drakvinge,Normandy,Borg,None,21.1,0,0,0
+120,Aud Bjørnsdóttir,Female,24.0,Karl,Drakvinge,Lindisfarne,Nidaros,None,24.7,2,0,0
+121,Jorunn Sigurdsdóttir,Female,18.0,Thrall,Drakvinge,Miklagard,Kaupang,None,7.7,0,1,0
+122,Asbjørn Haraldsson,Male,32.0,Karl,Sjøulven,Normandy,Borg,None,29.5,0,3,0
+123,Sven Ragnarsson,Male,16.0,Thrall,Sjøulven,Miklagard,Kaupang,None,33.1,4,0,0
+124,Thorvald Ulfsson,Male,30.0,Karl,Hrafnkell,Miklagard,Nidaros,None,54.8,0,3,0
+125,Styrbjörn Torsteinsson,Male,33.0,Hirdman,Drakvinge,Normandy,Kaupang,Leather,9.1,1,4,1
+126,Thorvald Ormsson,Male,,Jarl,Bison,Normandy,Nidaros,Chainmail,109.3,0,1,1
+127,Håkon Bjørnsson,Male,32.0,Hirdman,Drakvinge,Vinland,Nidaros,Chainmail,18.6,0,3,1
+128,Jarle Torsteinsson,Male,25.0,Karl,Hrafnkell,Vinland,Kaupang,None,13.0,0,3,0
+129,Bjørn Torsteinsson,Male,23.0,Thrall,Ormen Lange,Miklagard,Nidaros,,7.0,0,0,0
+130,Styrbjörn Torsteinsson,Male,32.0,Karl,Sjøulven,Vinland,Nidaros,Leather,12.9,1,1,0
+131,Halvor Haraldsson,Male,11.0,Karl,Sjøulven,Normandy,Nidaros,Leather,4.1,0,4,0
+132,Freya Ragnarsdóttir,Female,23.0,Thrall,Ormen Lange,Vinland,Nidaros,None,2.0,2,0,0
+133,Sigurd Ragnarsson,Male,32.0,Karl,Ormen Lange,Iceland,Nidaros,None,22.2,0,1,0
+134,Orm Grimsson,Male,44.0,Karl,Ormen Lange,Miklagard,Nidaros,None,9.2,0,0,0
+135,Arne Ormsson,Male,28.0,Karl,Ormen Lange,Iceland,Nidaros,Leather,8.1,3,2,0
+136,Rollo Bjørnsson,Male,32.0,Karl,Sjøulven,Iceland,Kaupang,None,5.3,1,2,0
+137,Håkon Ormsson,Male,18.0,Thrall,Drakvinge,Miklagard,Borg,None,3.3,2,0,0
+138,Orm Ulfsson,Male,28.0,Karl,Drakvinge,Miklagard,Nidaros,Leather,2.0,2,2,0
+139,Erling Ketilsson,Male,23.0,Thrall,Bison,Vinland,Nidaros,None,11.2,1,0,0
+140,Ulf Ketilsson,Male,26.0,Karl,Sjøulven,Vinland,Nidaros,None,27.8,0,1,0
+141,Bjørn Grimsson,Male,26.0,Karl,Bison,Iceland,Kaupang,None,32.5,0,0,0
+142,Sigurd Haraldsson,Male,35.0,Karl,Sjøulven,Miklagard,Nidaros,Leather,45.0,4,1,0
+143,Finn Grimsson,Male,31.0,Hirdman,Bison,Iceland,Borg,Leather,115.7,0,3,1
+144,Håkon Ulfsson,Male,28.0,Hirdman,Hrafnkell,Vinland,Nidaros,,7.7,0,4,0
+145,Sigurd Grimsson,Male,29.0,Jarl,Ormen Lange,Iceland,Borg,Chainmail,9.6,0,4,1
+146,Torstein Ketilsson,Male,26.0,Thrall,Sjøulven,Normandy,Borg,None,8.6,2,1,0
+147,Sigurd Ragnarsson,Male,42.0,Karl,Drakvinge,Normandy,Nidaros,None,16.2,0,4,0
+148,Trygve Haraldsson,Male,27.0,Hirdman,Bison,Normandy,Nidaros,,14.0,0,2,0
+149,Jarle Ulfsson,Male,46.0,Jarl,Bison,Lindisfarne,Nidaros,Lamellar,33.7,0,9,1
+150,Sigrid Ragnarsdóttir,Female,,Karl,Bison,Normandy,Borg,,6.0,2,0,1
+151,Thyra Ulfsdóttir,Female,39.0,Thrall,Ormen Lange,Lindisfarne,Borg,None,2.0,1,0,1
+152,Thyra Sigurdsdóttir,Female,32.0,Hirdman,Drakvinge,Lindisfarne,Nidaros,Chainmail,25.5,2,2,1
+153,Ulf Ulfsson,Male,41.0,Thrall,Drakvinge,Iceland,Borg,None,2.0,0,1,0
+154,Styrbjörn Haraldsson,Male,28.0,Thrall,Drakvinge,Lindisfarne,Borg,None,2.0,2,0,0
+155,Olav Sigurdsson,Male,,Hirdman,Bison,Normandy,Borg,Leather,84.1,0,5,1
+156,Eirik Ketilsson,Male,39.0,Karl,Ormen Lange,Iceland,Kaupang,None,6.8,0,0,0
+157,Hilde Ketilsdóttir,Female,19.0,Thrall,Ormen Lange,Lindisfarne,Kaupang,None,2.8,2,0,0
+158,Asbjørn Bjørnsson,Male,21.0,Karl,Hrafnkell,Miklagard,Nidaros,None,6.5,0,2,0
+159,Gunnhild Sigurdsdóttir,Female,26.0,Thrall,Hrafnkell,Lindisfarne,Nidaros,None,14.3,0,0,0
+160,Ivar Bjørnsson,Male,25.0,Karl,Ormen Lange,Iceland,Kaupang,None,13.9,0,0,0
+161,Rollo Bjørnsson,Male,35.0,Hirdman,Hrafnkell,Iceland,Borg,Leather,17.7,2,5,1
+162,Arne Torsteinsson,Male,15.0,Karl,Hrafnkell,Vinland,Borg,,2.0,1,1,0
+163,Bjørn Ragnarsson,Male,28.0,Karl,Hrafnkell,Vinland,Nidaros,,25.8,1,2,0
+164,Grim Ketilsson,Male,44.0,Jarl,Ormen Lange,Iceland,Borg,Chainmail,12.9,1,5,1
+165,Ragnhild Ragnarsdóttir,Female,,Karl,Sjøulven,Miklagard,Kaupang,Leather,12.9,0,1,1
+166,Solveig Arnesdóttir,Female,34.0,Thrall,Ormen Lange,Lindisfarne,Nidaros,None,9.2,1,0,1
+167,Harald Torsteinsson,Male,22.0,Karl,Ormen Lange,Normandy,Borg,None,7.0,0,0,0
+168,Grim Ketilsson,Male,25.0,Karl,Drakvinge,Iceland,Nidaros,Leather,65.1,2,2,1
+169,Ulf Haraldsson,Male,17.0,Karl,Bison,Iceland,Nidaros,,3.0,1,2,0
+170,Orm Bjørnsson,Male,36.0,Karl,Drakvinge,Normandy,Nidaros,,2.0,2,0,0
+171,Runa Haraldsdóttir,Female,25.0,Thrall,Drakvinge,Lindisfarne,Nidaros,,2.7,2,0,1
+172,Runa Sigurdsdóttir,Female,20.0,Thrall,Bison,Miklagard,Nidaros,,3.6,1,0,0
+173,Grim Ulfsson,Male,,Jarl,Drakvinge,Miklagard,Nidaros,Lamellar,266.7,2,3,1
+174,Dag Sigurdsson,Male,19.0,Karl,Sjøulven,Vinland,Borg,,14.0,0,2,0
+175,Harald Sigurdsson,Male,26.0,Hirdman,Ormen Lange,Vinland,Nidaros,Leather,19.4,1,1,0
+176,Bjørn Haraldsson,Male,40.0,Jarl,Hrafnkell,Vinland,Nidaros,,5.1,3,3,1
+177,Gunnar Ormsson,Male,22.0,Thrall,Hrafnkell,Normandy,Nidaros,None,2.0,1,0,0
+178,Ulf Ormsson,Male,49.0,Karl,Hrafnkell,Vinland,Borg,None,2.0,1,4,0
+179,Runa Ketilsdóttir,Female,,Karl,Hrafnkell,Iceland,Nidaros,None,8.1,1,0,1
+180,Ketil Ragnarsson,Male,36.0,Karl,Ormen Lange,Lindisfarne,Nidaros,Leather,15.5,4,4,1
+181,Thyra Ulfsdóttir,Female,31.0,Karl,Drakvinge,Iceland,Nidaros,,5.3,2,3,1
+182,Arne Ketilsson,Male,,Hirdman,Drakvinge,Normandy,Kaupang,,50.7,1,7,1
+183,Ketil Ragnarsson,Male,,Jarl,Hrafnkell,Miklagard,Nidaros,Chainmail,169.5,1,5,1
+184,Sigurd Ormsson,Male,,Karl,Sjøulven,Lindisfarne,Nidaros,,5.0,2,1,0
+185,Alvhild Ketilsdóttir,Female,,Thrall,Bison,Lindisfarne,Nidaros,None,11.7,0,2,0
+186,Trygve Torsteinsson,Male,,Karl,Ormen Lange,Iceland,Borg,None,4.1,1,4,0
+187,Sigurd Grimsson,Male,30.0,Thrall,Hrafnkell,Iceland,Nidaros,None,9.9,2,1,0
+188,Bergljot Torsteinsdóttir,Female,31.0,Karl,Bison,Lindisfarne,Borg,None,8.5,0,3,1
+189,Solveig Bjørnsdóttir,Female,,Karl,Drakvinge,Lindisfarne,Borg,,38.0,1,0,1
+190,Eirik Ketilsson,Male,28.0,Hirdman,Hrafnkell,Lindisfarne,Nidaros,Leather,2.0,2,5,1
+191,Erling Sigurdsson,Male,21.0,Thrall,Drakvinge,Lindisfarne,Borg,None,3.4,0,0,0
+192,Ivar Ulfsson,Male,23.0,Karl,Drakvinge,Miklagard,Nidaros,,9.3,0,1,1
+193,Orm Haraldsson,Male,25.0,Karl,Bison,Normandy,Nidaros,None,2.0,0,0,0
+194,Kolbjørn Ragnarsson,Male,41.0,Karl,Bison,Iceland,Kaupang,Leather,5.1,1,2,1
+195,Håkon Haraldsson,Male,30.0,Hirdman,Drakvinge,Normandy,Kaupang,Chainmail,21.4,2,2,0
+196,Halvor Ragnarsson,Male,45.0,Jarl,Bison,Normandy,Nidaros,Lamellar,65.7,1,3,1
+197,Ingrid Ragnarsdóttir,Female,23.0,Karl,Bison,Normandy,Kaupang,,24.4,1,1,0
+198,Rollo Torsteinsson,Male,29.0,Thrall,Drakvinge,Lindisfarne,Nidaros,None,35.9,1,1,0
+199,Bjørn Bjørnsson,Male,35.0,Karl,Bison,Lindisfarne,Nidaros,None,3.9,1,1,0
+200,Ivar Sigurdsson,Male,44.0,Karl,Drakvinge,Lindisfarne,Kaupang,Leather,23.7,0,2,1
+201,Jorunn Haraldsdóttir,Female,41.0,Karl,Hrafnkell,Miklagard,Kaupang,None,14.2,2,2,0
+202,Asbjørn Sigurdsson,Male,56.0,Jarl,Drakvinge,Lindisfarne,Nidaros,Lamellar,320.4,2,4,1
+203,Jarle Bjørnsson,Male,38.0,Karl,Bison,Iceland,Kaupang,Leather,19.0,2,1,1
+204,Hilde Torsteinsdóttir,Female,16.0,Hirdman,Ormen Lange,Iceland,Nidaros,Leather,9.3,2,3,1
+205,Ragnar Ulfsson,Male,,Jarl,Hrafnkell,Lindisfarne,Nidaros,,103.4,1,5,1
+206,Ulf Haraldsson,Male,35.0,Karl,Bison,Miklagard,Nidaros,,6.9,2,1,0
+207,Trygve Ragnarsson,Male,26.0,Hirdman,Bison,Lindisfarne,Borg,Chainmail,103.5,0,3,1
+208,Ragnar Haraldsson,Male,12.0,Thrall,Sjøulven,Lindisfarne,Nidaros,,2.0,2,0,0
+209,Trygve Ragnarsson,Male,36.0,Thrall,Hrafnkell,Normandy,Nidaros,None,17.7,0,0,0
+210,Arne Ketilsson,Male,,Jarl,Ormen Lange,Normandy,Nidaros,Lamellar,55.1,2,6,1
+211,Orm Ragnarsson,Male,29.0,Karl,Bison,Iceland,Borg,Leather,13.7,1,2,1
+212,Kolbjørn Ormsson,Male,,Karl,Hrafnkell,Lindisfarne,Borg,,26.3,0,2,0
+213,Sigurd Ulfsson,Male,27.0,Hirdman,Hrafnkell,Miklagard,Nidaros,Leather,4.7,2,2,0
+214,Rollo Haraldsson,Male,20.0,Karl,Hrafnkell,Iceland,Nidaros,None,35.3,1,4,0
+215,Torstein Ketilsson,Male,26.0,Hirdman,Ormen Lange,Normandy,Nidaros,Leather,34.5,1,6,1
+216,Jorunn Torsteinsdóttir,Female,23.0,Karl,Sjøulven,Miklagard,Borg,,14.6,0,1,0
+217,Knut Grimsson,Male,16.0,Karl,Drakvinge,Normandy,Kaupang,None,2.0,3,0,0
+218,Kolbjørn Torsteinsson,Male,17.0,Karl,Drakvinge,Iceland,Nidaros,Leather,2.1,0,3,1
+219,Svanhild Arnesdóttir,Female,24.0,Karl,Hrafnkell,Miklagard,Nidaros,Leather,76.2,1,3,1
+220,Ivar Ormsson,Male,,Jarl,Drakvinge,Lindisfarne,Nidaros,,61.6,1,1,1
+221,Kolbjørn Haraldsson,Male,12.0,Karl,Hrafnkell,Normandy,Nidaros,None,7.0,2,1,0
+222,Gunnhild Bjørnsdóttir,Female,21.0,Hirdman,Ormen Lange,Normandy,Nidaros,Chainmail,6.8,1,1,1
+223,Gunnar Grimsson,Male,26.0,Karl,Hrafnkell,Miklagard,Nidaros,None,4.6,0,2,0
+224,Jorunn Ragnarsdóttir,Female,27.0,Karl,Ormen Lange,Miklagard,Nidaros,None,11.9,2,0,1
+225,Torstein Bjørnsson,Male,,Thrall,Hrafnkell,Vinland,Borg,None,13.3,1,0,0
+226,Kolbjørn Haraldsson,Male,38.0,Karl,Bison,Normandy,Borg,,10.9,2,2,1
+227,Asbjørn Ulfsson,Male,39.0,Karl,Drakvinge,Lindisfarne,Borg,Leather,9.0,3,2,0
+228,Grim Ulfsson,Male,19.0,Hirdman,Bison,Miklagard,Borg,Leather,105.5,3,6,1
+229,Jarle Ketilsson,Male,18.0,Thrall,Drakvinge,Lindisfarne,Nidaros,None,2.0,0,0,0
+230,Harald Grimsson,Male,,Thrall,Hrafnkell,Miklagard,Nidaros,None,11.0,0,2,0
+231,Gunnar Bjørnsson,Male,32.0,Karl,Bison,Normandy,Nidaros,,27.5,1,5,1
+232,Orm Torsteinsson,Male,23.0,Hirdman,Ormen Lange,Lindisfarne,Nidaros,Chainmail,81.3,0,0,1
+233,Ketil Ulfsson,Male,31.0,Karl,Sjøulven,Lindisfarne,Nidaros,None,47.3,1,1,0
+234,Jarle Ragnarsson,Male,16.0,Karl,Hrafnkell,Iceland,Borg,None,58.1,1,1,1
+235,Erling Bjørnsson,Male,28.0,Karl,Bison,Lindisfarne,Nidaros,Leather,11.4,0,1,1
+236,Thorvald Ketilsson,Male,33.0,Karl,Sjøulven,Iceland,Nidaros,Leather,43.3,2,1,0
+237,Halvor Bjørnsson,Male,23.0,Thrall,Hrafnkell,Lindisfarne,Nidaros,None,2.0,0,1,0
+238,Knut Grimsson,Male,13.0,Thrall,Ormen Lange,Normandy,Borg,,7.3,2,0,0
+239,Harald Grimsson,Male,31.0,Hirdman,Hrafnkell,Vinland,Nidaros,None,8.7,1,3,0
+240,Gunnar Sigurdsson,Male,27.0,Hirdman,Bison,Lindisfarne,Borg,Leather,55.9,0,4,1
+241,Trygve Torsteinsson,Male,29.0,Hirdman,Drakvinge,Lindisfarne,Kaupang,,65.4,0,3,0
+242,Gudrun Ulfsdóttir,Female,38.0,Karl,Drakvinge,Miklagard,Borg,,2.7,0,1,1
+243,Ivar Bjørnsson,Male,9.0,Thrall,Drakvinge,Lindisfarne,Nidaros,None,12.5,1,0,1
+244,Kolbjørn Ragnarsson,Male,40.0,Karl,Hrafnkell,Normandy,Borg,Leather,8.1,2,1,1
+245,Leif Grimsson,Male,31.0,Hirdman,Drakvinge,Iceland,Kaupang,,110.7,1,5,1
+246,Sigurd Haraldsson,Male,17.0,Thrall,Ormen Lange,Vinland,Nidaros,None,20.5,0,2,0
+247,Bergljot Ketilsdóttir,Female,,Karl,Bison,Iceland,Nidaros,None,9.3,0,2,1
+248,Eirik Torsteinsson,Male,16.0,Karl,Bison,Lindisfarne,Nidaros,None,18.1,1,5,0
+249,Eirik Grimsson,Male,38.0,Karl,Drakvinge,Miklagard,Nidaros,None,27.5,1,0,0
+250,Helga Torsteinsdóttir,Female,42.0,Hirdman,Bison,Vinland,Nidaros,Leather,26.6,2,3,1
+251,Hilde Ketilsdóttir,Female,36.0,Karl,Drakvinge,Vinland,Borg,,21.1,1,0,0
+252,Hilde Haraldsdóttir,Female,26.0,Karl,Drakvinge,Lindisfarne,Borg,Leather,2.0,0,3,0
+253,Dag Grimsson,Male,27.0,Thrall,Bison,Lindisfarne,Borg,,35.5,0,0,0
+254,Solveig Arnesdóttir,Female,29.0,Thrall,Hrafnkell,Normandy,Nidaros,None,7.5,1,0,0
+255,Olav Ulfsson,Male,29.0,Karl,Hrafnkell,Lindisfarne,Borg,None,46.4,0,0,0
+256,Knut Haraldsson,Male,31.0,Thrall,Bison,Iceland,Nidaros,,2.0,0,1,0
+257,Gunnar Sigurdsson,Male,27.0,Hirdman,Bison,Normandy,Nidaros,Chainmail,4.7,2,3,0
+258,Jorunn Bjørnsdóttir,Female,,Thrall,Ormen Lange,Vinland,Nidaros,None,5.9,0,1,0
+259,Grim Grimsson,Male,36.0,Thrall,Bison,Iceland,Borg,None,16.7,3,0,0
+260,Grim Haraldsson,Male,31.0,Karl,Hrafnkell,Normandy,Nidaros,,2.0,2,4,0
+261,Finn Ketilsson,Male,22.0,Hirdman,Sjøulven,Iceland,Borg,,149.1,0,2,0
+262,Aud Ketilsdóttir,Female,,Karl,Hrafnkell,Iceland,Nidaros,Leather,45.8,0,2,0
+263,Finn Grimsson,Male,,Karl,Ormen Lange,Lindisfarne,Kaupang,Leather,14.7,0,2,1
+264,Åsa Ulfsdóttir,Female,9.0,Thrall,Hrafnkell,Vinland,Kaupang,None,4.3,0,2,0
+265,Ragnar Ormsson,Male,34.0,Jarl,Hrafnkell,Normandy,,Chainmail,98.7,3,4,1
+266,Bergljot Sigurdsdóttir,Female,46.0,Karl,Drakvinge,Iceland,Nidaros,Leather,16.7,0,5,1
+267,Thyra Bjørnsdóttir,Female,43.0,Karl,Sjøulven,Lindisfarne,Nidaros,None,85.3,2,1,1
+268,Sven Sigurdsson,Male,22.0,Thrall,Ormen Lange,Lindisfarne,Kaupang,None,2.1,0,3,0
+269,Sven Haraldsson,Male,22.0,Hirdman,Hrafnkell,Lindisfarne,Kaupang,Chainmail,2.4,0,2,1
+270,Asbjørn Bjørnsson,Male,49.0,Thrall,Hrafnkell,Miklagard,Nidaros,None,2.0,0,1,0
+271,Ketil Ulfsson,Male,8.0,Karl,Hrafnkell,Lindisfarne,Borg,Leather,2.0,0,1,1
+272,Leif Ulfsson,Male,,Karl,Sjøulven,Vinland,Nidaros,None,6.9,0,1,0
+273,Eirik Sigurdsson,Male,24.0,Karl,Bison,Lindisfarne,Kaupang,None,18.7,0,2,1
+274,Sven Ragnarsson,Male,37.0,Jarl,Bison,Miklagard,Borg,Lamellar,66.9,0,2,1
+275,Tove Ulfsdóttir,Female,30.0,Karl,Hrafnkell,Miklagard,Borg,,2.0,3,1,1
+276,Erling Torsteinsson,Male,47.0,Karl,Hrafnkell,Miklagard,Kaupang,,2.0,0,1,0
+277,Håkon Grimsson,Male,31.0,Hirdman,Ormen Lange,Normandy,Kaupang,Chainmail,46.4,2,2,1
+278,Arne Grimsson,Male,,Karl,Ormen Lange,Normandy,Nidaros,None,13.4,2,0,1
+279,Solveig Bjørnsdóttir,Female,40.0,Thrall,Bison,Vinland,Borg,None,19.7,2,0,0
+280,Knut Ulfsson,Male,34.0,Thrall,Drakvinge,Lindisfarne,Nidaros,,16.9,0,1,0
+281,Torstein Ragnarsson,Male,26.0,Karl,Hrafnkell,Iceland,Nidaros,None,55.8,2,3,0
+282,Thorvald Torsteinsson,Male,19.0,Thrall,Bison,Iceland,Nidaros,None,2.2,1,0,0
+283,Håkon Ragnarsson,Male,,Karl,Hrafnkell,Miklagard,Kaupang,,60.8,3,1,0
+284,Erling Ragnarsson,Male,31.0,Hirdman,Sjøulven,Normandy,Nidaros,Leather,2.9,2,5,0
+285,Torstein Ulfsson,Male,,Thrall,Bison,Iceland,Nidaros,,2.0,0,1,0
+286,Dag Sigurdsson,Male,31.0,Karl,Ormen Lange,Normandy,Nidaros,None,12.4,0,1,0
+287,Ingrid Ulfsdóttir,Female,22.0,Thrall,Bison,Lindisfarne,Nidaros,None,6.1,1,0,0
+288,Harald Ragnarsson,Male,,Hirdman,Ormen Lange,Miklagard,Nidaros,Chainmail,45.1,1,3,1
+289,Håkon Sigurdsson,Male,41.0,Hirdman,Drakvinge,Iceland,Borg,Leather,42.1,1,2,1
+290,Trygve Ketilsson,Male,,Hirdman,Ormen Lange,Iceland,Borg,Chainmail,18.1,0,4,1
+291,Ivar Grimsson,Male,38.0,Hirdman,Bison,Vinland,Borg,Chainmail,13.2,2,2,1
+292,Asbjørn Ormsson,Male,15.0,Karl,Drakvinge,Lindisfarne,Nidaros,None,17.7,1,0,1
+293,Knut Bjørnsson,Male,40.0,Karl,Drakvinge,Lindisfarne,Borg,None,5.0,2,0,0
+294,Sven Ormsson,Male,38.0,Karl,Bison,Lindisfarne,Nidaros,None,7.1,1,2,1
+295,Harald Bjørnsson,Male,35.0,Hirdman,Hrafnkell,Iceland,Kaupang,None,6.3,1,7,1
+296,Astrid Arnesdóttir,Female,44.0,Karl,Ormen Lange,Miklagard,Borg,,18.7,2,1,1
+297,Ivar Torsteinsson,Male,,Karl,Hrafnkell,Lindisfarne,Nidaros,Leather,2.0,0,2,0
+298,Rollo Ormsson,Male,34.0,Hirdman,Hrafnkell,Lindisfarne,Kaupang,Chainmail,51.3,3,3,1
+299,Hilde Ragnarsdóttir,Female,14.0,Karl,Ormen Lange,Miklagard,Nidaros,None,15.6,1,2,1
+300,Torstein Ragnarsson,Male,,Hirdman,Sjøulven,Normandy,Kaupang,Leather,11.1,2,5,0
+301,Helga Ketilsdóttir,Female,25.0,Karl,Hrafnkell,Miklagard,Nidaros,None,6.3,5,1,0
+302,Leif Ragnarsson,Male,30.0,Hirdman,Ormen Lange,Normandy,Nidaros,Chainmail,2.0,1,7,1
+303,Solveig Ragnarsdóttir,Female,30.0,Hirdman,Bison,Normandy,Nidaros,Leather,2.7,1,7,1
+304,Halvor Bjørnsson,Male,30.0,Karl,Ormen Lange,Normandy,Nidaros,None,2.0,1,2,1
+305,Ragnhild Ulfsdóttir,Female,,Karl,Drakvinge,Lindisfarne,Nidaros,None,20.7,2,0,1
+306,Freya Torsteinsdóttir,Female,,Karl,Ormen Lange,Lindisfarne,Nidaros,None,8.2,1,1,1
+307,Ragnar Grimsson,Male,25.0,Karl,Drakvinge,Iceland,Kaupang,None,30.7,2,1,0
+308,Knut Ragnarsson,Male,42.0,Karl,Ormen Lange,Normandy,Nidaros,,11.3,1,1,0
+309,Ragnar Torsteinsson,Male,23.0,Karl,Ormen Lange,Iceland,Nidaros,Leather,21.7,1,2,1
+310,Håkon Ragnarsson,Male,37.0,Karl,Sjøulven,Vinland,Nidaros,None,25.4,2,1,0
+311,Harald Ragnarsson,Male,28.0,Karl,Drakvinge,Vinland,Nidaros,,6.1,0,1,0
+312,Alvhild Bjørnsdóttir,Female,26.0,Karl,Hrafnkell,Vinland,Nidaros,Leather,48.1,1,2,0
+313,Erling Ormsson,Male,29.0,Karl,Sjøulven,Lindisfarne,Nidaros,,11.6,0,2,1
+314,Kolbjørn Haraldsson,Male,40.0,Thrall,Bison,Normandy,Nidaros,,28.6,1,0,0
+315,Sven Ormsson,Male,31.0,Hirdman,Bison,Miklagard,Nidaros,Chainmail,78.9,0,6,1
+316,Gunnhild Ulfsdóttir,Female,30.0,Hirdman,Sjøulven,Lindisfarne,Borg,Chainmail,86.8,1,5,1
+317,Sigrid Haraldsdóttir,Female,38.0,Thrall,Bison,Vinland,Nidaros,None,18.4,3,0,0
+318,Ulf Ulfsson,Male,26.0,Thrall,Hrafnkell,Miklagard,Nidaros,None,4.4,0,0,0
+319,Knut Torsteinsson,Male,40.0,Karl,Drakvinge,Normandy,Nidaros,,2.0,0,2,0
+320,Åsa Sigurdsdóttir,Female,,Karl,Ormen Lange,Miklagard,Nidaros,Leather,23.3,2,1,1
+321,Jarle Grimsson,Male,16.0,Thrall,Hrafnkell,Normandy,Nidaros,None,5.1,1,2,0
+322,Orm Haraldsson,Male,37.0,Karl,Sjøulven,Normandy,Nidaros,None,3.2,3,1,0
+323,Ketil Ketilsson,Male,,Karl,Drakvinge,Vinland,,None,9.2,7,1,0
+324,Finn Ormsson,Male,37.0,Hirdman,Hrafnkell,Normandy,Kaupang,Leather,29.9,1,5,1
+325,Ulf Grimsson,Male,25.0,Karl,Ormen Lange,Iceland,Borg,Leather,13.8,1,2,0
+326,Liv Ketilsdóttir,Female,15.0,Thrall,Hrafnkell,Miklagard,Kaupang,None,2.0,2,1,0
+327,Asbjørn Sigurdsson,Male,,Karl,Sjøulven,Vinland,Kaupang,Leather,11.0,0,0,0
+328,Erling Sigurdsson,Male,43.0,Karl,Bison,Miklagard,Nidaros,None,22.1,0,2,1
+329,Gudrun Torsteinsdóttir,Female,34.0,Karl,Drakvinge,Lindisfarne,,Leather,3.7,0,0,1
+330,Trygve Grimsson,Male,34.0,Thrall,Ormen Lange,Vinland,Kaupang,None,2.0,3,1,0
+331,Eirik Ulfsson,Male,,Hirdman,Hrafnkell,Lindisfarne,Nidaros,None,21.7,1,3,0
+332,Finn Grimsson,Male,25.0,Hirdman,Drakvinge,Lindisfarne,Kaupang,Leather,8.3,1,6,1
+333,Ragnar Grimsson,Male,27.0,Karl,Drakvinge,Normandy,Nidaros,None,22.9,2,4,0
+334,Thyra Ketilsdóttir,Female,24.0,Karl,Drakvinge,Normandy,Kaupang,,6.4,1,2,1
+335,Sigrid Haraldsdóttir,Female,21.0,Thrall,Sjøulven,Lindisfarne,Borg,None,13.9,2,1,0
+336,Asbjørn Ulfsson,Male,19.0,Hirdman,Drakvinge,Vinland,Nidaros,Chainmail,202.4,0,6,1
+337,Finn Ketilsson,Male,,Jarl,Hrafnkell,Lindisfarne,Nidaros,Lamellar,58.6,1,5,1
+338,Styrbjörn Torsteinsson,Male,27.0,Hirdman,Hrafnkell,Lindisfarne,Borg,Chainmail,45.6,3,2,1
+339,Olav Sigurdsson,Male,21.0,Thrall,Drakvinge,Iceland,Nidaros,None,11.4,1,1,0
+340,Leif Ulfsson,Male,21.0,Hirdman,Bison,Lindisfarne,Nidaros,None,5.1,1,5,1
+341,Bergljot Torsteinsdóttir,Female,22.0,Karl,Ormen Lange,Normandy,Nidaros,Leather,2.2,1,1,1
+342,Bergljot Ulfsdóttir,Female,34.0,Hirdman,Sjøulven,Miklagard,Borg,Leather,10.8,2,3,1
+343,Halvor Sigurdsson,Male,15.0,Hirdman,Drakvinge,Miklagard,Nidaros,,14.4,0,3,1
+344,Geir Sigurdsson,Male,29.0,Hirdman,Bison,Iceland,Kaupang,Leather,13.5,1,3,1
+345,Ragnhild Torsteinsdóttir,Female,36.0,Hirdman,Ormen Lange,Miklagard,Nidaros,,45.9,1,4,1
+346,Solveig Torsteinsdóttir,Female,19.0,Karl,Ormen Lange,Lindisfarne,,Leather,42.3,1,0,1
+347,Dag Ragnarsson,Male,42.0,Jarl,Ormen Lange,Miklagard,Borg,Lamellar,30.0,2,4,1
+348,Halvor Ulfsson,Male,38.0,Karl,Drakvinge,Lindisfarne,Nidaros,None,13.6,1,0,0
+349,Torstein Grimsson,Male,13.0,Thrall,Hrafnkell,Lindisfarne,Nidaros,,2.0,1,0,0
+350,Ivar Bjørnsson,Male,,Karl,Hrafnkell,Normandy,Kaupang,None,2.0,1,2,0
+351,Ragnar Haraldsson,Male,42.0,Jarl,Hrafnkell,Normandy,Nidaros,Chainmail,55.1,2,2,1
+352,Kolbjørn Torsteinsson,Male,22.0,Karl,Hrafnkell,Lindisfarne,,Leather,44.6,0,1,1
+353,Solveig Ulfsdóttir,Female,28.0,Hirdman,Bison,Normandy,Nidaros,Chainmail,17.1,1,3,1
+354,Knut Ulfsson,Male,19.0,Hirdman,Hrafnkell,Miklagard,Kaupang,None,2.0,0,1,0
+355,Dag Grimsson,Male,40.0,Thrall,Ormen Lange,Normandy,Kaupang,None,10.9,0,0,0
+356,Grim Ketilsson,Male,36.0,Karl,Bison,Iceland,Borg,None,7.6,2,2,1
+357,Eirik Ulfsson,Male,29.0,Hirdman,Bison,Iceland,Borg,Leather,77.6,1,8,1
+358,Asbjørn Ragnarsson,Male,41.0,Karl,Drakvinge,Normandy,Nidaros,,2.0,1,1,0
+359,Geir Bjørnsson,Male,15.0,Thrall,Bison,Vinland,Nidaros,None,6.0,2,2,0
+360,Gunnhild Ulfsdóttir,Female,37.0,Karl,Ormen Lange,Vinland,Nidaros,Leather,7.6,2,0,1
+361,Tove Bjørnsdóttir,Female,43.0,Karl,Sjøulven,Iceland,Nidaros,Leather,19.7,2,2,0
+362,Orm Ketilsson,Male,,Hirdman,Bison,Iceland,Kaupang,None,2.7,3,4,0
+363,Geir Torsteinsson,Male,18.0,Hirdman,Ormen Lange,Miklagard,Kaupang,Chainmail,3.6,2,3,0
+364,Eirik Ketilsson,Male,21.0,Thrall,Bison,Normandy,,,12.2,1,0,0
+365,Harald Ulfsson,Male,36.0,Thrall,Bison,Lindisfarne,Nidaros,None,9.3,0,1,0
+366,Grim Sigurdsson,Male,15.0,Hirdman,Drakvinge,Miklagard,Nidaros,,35.1,0,6,1
+367,Finn Haraldsson,Male,21.0,Karl,Drakvinge,Lindisfarne,Nidaros,None,3.4,2,0,0
+368,Eirik Sigurdsson,Male,,Thrall,Bison,Iceland,Borg,None,2.3,0,1,0
+369,Håkon Ketilsson,Male,39.0,Karl,Sjøulven,Lindisfarne,Nidaros,,2.3,1,1,0
+370,Helga Ragnarsdóttir,Female,42.0,Karl,Ormen Lange,Lindisfarne,Borg,None,2.0,3,2,1
+371,Ragnar Ragnarsson,Male,26.0,Karl,Drakvinge,Miklagard,Nidaros,None,15.8,2,0,0
+372,Ingrid Arnesdóttir,Female,34.0,Thrall,Hrafnkell,Normandy,Nidaros,None,11.1,1,0,0
+373,Bjørn Torsteinsson,Male,32.0,Karl,Bison,Lindisfarne,Nidaros,Leather,53.0,2,4,1
+374,Håkon Bjørnsson,Male,59.0,Thrall,Drakvinge,Lindisfarne,Nidaros,None,8.7,4,1,0
+375,Ivar Ragnarsson,Male,,Hirdman,Hrafnkell,Miklagard,Borg,Chainmail,26.4,0,4,1
+376,Gudrun Haraldsdóttir,Female,,Hirdman,Drakvinge,Iceland,Borg,Chainmail,4.1,1,4,1
+377,Kolbjørn Haraldsson,Male,27.0,Thrall,Hrafnkell,Lindisfarne,Nidaros,None,2.0,2,0,1
+378,Helga Ulfsdóttir,Female,43.0,Karl,Bison,Lindisfarne,Borg,Leather,18.0,2,1,1
+379,Gunnar Bjørnsson,Male,25.0,Hirdman,Sjøulven,Iceland,Borg,Leather,21.6,0,1,0
+380,Halvor Ragnarsson,Male,29.0,Hirdman,Drakvinge,Normandy,Nidaros,Chainmail,50.6,1,3,0
+381,Bergljot Ulfsdóttir,Female,33.0,Karl,Hrafnkell,Vinland,Borg,None,49.1,1,0,0
+382,Orm Ulfsson,Male,46.0,Thrall,Ormen Lange,Miklagard,Nidaros,,4.7,1,1,0
+383,Åsa Torsteinsdóttir,Female,,Jarl,Ormen Lange,Normandy,Nidaros,Chainmail,12.4,1,4,1
+384,Freya Bjørnsdóttir,Female,41.0,Jarl,Bison,Normandy,Nidaros,Lamellar,9.8,1,7,1
+385,Åsa Sigurdsdóttir,Female,8.0,Karl,Bison,Vinland,Borg,None,5.9,1,1,1
+386,Orm Ormsson,Male,42.0,Karl,Bison,Lindisfarne,Nidaros,None,23.8,0,0,0
+387,Leif Ketilsson,Male,23.0,Karl,Ormen Lange,Lindisfarne,Nidaros,,11.7,1,0,0
+388,Kolbjørn Ketilsson,Male,,Hirdman,Sjøulven,Miklagard,Kaupang,Chainmail,11.0,1,3,1
+389,Gunnhild Ketilsdóttir,Female,,Karl,Drakvinge,Lindisfarne,Nidaros,,40.3,1,3,1
+390,Svanhild Bjørnsdóttir,Female,36.0,Karl,Ormen Lange,Normandy,Nidaros,Leather,13.8,1,0,1
+391,Kolbjørn Haraldsson,Male,18.0,Karl,Sjøulven,Vinland,Nidaros,Leather,5.6,0,1,0
+392,Asbjørn Ragnarsson,Male,29.0,Karl,Hrafnkell,Normandy,Nidaros,,11.6,0,2,0
+393,Eirik Ormsson,Male,43.0,Thrall,Ormen Lange,Normandy,Borg,None,5.5,0,1,0
+394,Leif Ulfsson,Male,,Karl,Ormen Lange,Miklagard,Nidaros,Leather,3.4,1,0,0
+395,Solveig Ragnarsdóttir,Female,,Thrall,Ormen Lange,Vinland,Borg,,6.0,0,0,0
+396,Thorvald Grimsson,Male,,Karl,Sjøulven,Normandy,Borg,None,18.3,2,2,0
+397,Bjørn Ragnarsson,Male,30.0,Hirdman,Ormen Lange,Lindisfarne,Kaupang,Chainmail,5.0,2,2,1
+398,Leif Ragnarsson,Male,52.0,Karl,Hrafnkell,Normandy,Kaupang,None,59.3,0,1,0
+399,Erling Ulfsson,Male,24.0,Hirdman,Hrafnkell,Lindisfarne,Nidaros,Chainmail,10.9,0,2,1
+400,Jarle Torsteinsson,Male,46.0,Karl,Drakvinge,Iceland,Nidaros,None,17.4,0,2,0
+401,Sigurd Ulfsson,Male,48.0,Jarl,Sjøulven,Miklagard,Nidaros,Lamellar,248.5,2,2,0
+402,Halvor Ragnarsson,Male,25.0,Thrall,Sjøulven,Iceland,Borg,,2.4,2,1,0
+403,Asbjørn Sigurdsson,Male,27.0,Karl,Ormen Lange,Normandy,Kaupang,None,71.8,1,2,0
+404,Dag Grimsson,Male,24.0,Karl,Hrafnkell,Lindisfarne,Nidaros,Leather,2.0,1,0,1
+405,Thorvald Torsteinsson,Male,16.0,Karl,Bison,Lindisfarne,Nidaros,None,11.4,3,0,0
+406,Åsa Bjørnsdóttir,Female,18.0,Thrall,Bison,Lindisfarne,Borg,,2.0,0,2,1
+407,Finn Grimsson,Male,35.0,Thrall,Sjøulven,Miklagard,Kaupang,None,18.0,2,0,0
+408,Gunnar Ketilsson,Male,41.0,Thrall,Bison,Iceland,Kaupang,None,6.1,1,2,0
+409,Hilde Arnesdóttir,Female,,Hirdman,Sjøulven,Normandy,Nidaros,Leather,42.8,1,5,1
+410,Grim Torsteinsson,Male,,Karl,Ormen Lange,Vinland,Nidaros,None,2.0,0,0,0
+411,Ivar Ketilsson,Male,27.0,Karl,Ormen Lange,Normandy,Kaupang,None,41.1,0,0,1
+412,Grim Ragnarsson,Male,40.0,Karl,Ormen Lange,Iceland,Nidaros,None,2.0,0,1,1
+413,Ketil Grimsson,Male,36.0,Hirdman,Sjøulven,Normandy,Borg,,16.3,3,3,0
+414,Håkon Bjørnsson,Male,37.0,Jarl,Hrafnkell,Vinland,Nidaros,,133.6,1,6,1
+415,Ulf Ulfsson,Male,22.0,Karl,Ormen Lange,Normandy,Nidaros,Leather,2.2,2,3,0
+416,Finn Haraldsson,Male,39.0,Thrall,Hrafnkell,Vinland,Nidaros,None,10.0,1,2,0
+417,Thyra Bjørnsdóttir,Female,26.0,Thrall,Bison,Lindisfarne,Borg,None,4.3,3,0,0
+418,Leif Ketilsson,Male,27.0,Hirdman,Sjøulven,Lindisfarne,Nidaros,Leather,46.2,1,2,0
+419,Orm Ketilsson,Male,28.0,Karl,Sjøulven,Vinland,Nidaros,None,42.0,0,0,0
+420,Rollo Grimsson,Male,,Karl,Hrafnkell,Normandy,Kaupang,None,2.5,1,0,0
+421,Helga Ketilsdóttir,Female,24.0,Karl,Ormen Lange,Normandy,Borg,None,24.3,0,2,1
+422,Runa Ketilsdóttir,Female,14.0,Karl,Drakvinge,Normandy,Nidaros,Leather,5.2,0,1,1
+423,Jarle Ulfsson,Male,24.0,Karl,Bison,Miklagard,Borg,Leather,3.0,1,2,0
+424,Freya Ragnarsdóttir,Female,23.0,Karl,Hrafnkell,Normandy,Nidaros,Leather,28.4,3,2,0
+425,Ketil Ketilsson,Male,,Hirdman,Ormen Lange,Normandy,Nidaros,Chainmail,5.5,2,5,1
+426,Bjørn Sigurdsson,Male,40.0,Thrall,Ormen Lange,Miklagard,Nidaros,,18.9,3,0,0
+427,Leif Bjørnsson,Male,36.0,Karl,Bison,Miklagard,Nidaros,Leather,2.0,1,1,0
+428,Halvor Bjørnsson,Male,,Hirdman,Ormen Lange,Normandy,Borg,,5.8,2,2,0
+429,Svanhild Torsteinsdóttir,Female,40.0,Karl,Hrafnkell,Vinland,Nidaros,Leather,7.9,2,1,1
+430,Finn Grimsson,Male,30.0,Karl,Ormen Lange,Normandy,Nidaros,Leather,50.8,1,4,1
+431,Jorunn Haraldsdóttir,Female,31.0,Karl,Drakvinge,Normandy,Nidaros,Leather,105.4,1,1,1
+432,Harald Ragnarsson,Male,21.0,Karl,Bison,Normandy,Nidaros,,5.7,0,1,0
+433,Thyra Ragnarsdóttir,Female,25.0,Karl,Bison,Lindisfarne,,Leather,11.5,1,5,0
+434,Finn Ragnarsson,Male,17.0,Thrall,Hrafnkell,Normandy,Kaupang,None,31.6,2,0,0
+435,Trygve Haraldsson,Male,,Karl,Bison,Lindisfarne,Kaupang,Leather,57.2,0,0,0
+436,Håkon Bjørnsson,Male,8.0,Karl,Sjøulven,Miklagard,Kaupang,None,2.0,1,0,0
+437,Bjørn Ulfsson,Male,42.0,Karl,Drakvinge,Normandy,Kaupang,,2.0,0,2,1
+438,Ulf Torsteinsson,Male,16.0,Hirdman,Drakvinge,Lindisfarne,Nidaros,,24.7,0,8,1
+439,Gunnar Ragnarsson,Male,24.0,Thrall,Bison,Iceland,Nidaros,None,10.1,1,0,0
+440,Alvhild Ulfsdóttir,Female,36.0,Karl,Hrafnkell,Normandy,Borg,None,17.5,1,2,1
+441,Finn Grimsson,Male,27.0,Thrall,Ormen Lange,Iceland,Nidaros,None,23.9,2,0,0
+442,Ragnhild Bjørnsdóttir,Female,42.0,Karl,Hrafnkell,Lindisfarne,Borg,Leather,17.0,2,3,1
+443,Bjørn Sigurdsson,Male,,Thrall,Sjøulven,Vinland,Borg,None,2.0,1,0,0
+444,Ketil Bjørnsson,Male,20.0,Thrall,Ormen Lange,Lindisfarne,Nidaros,None,7.4,3,1,0
+445,Torstein Torsteinsson,Male,8.0,Karl,Bison,Lindisfarne,Kaupang,,14.8,2,1,1
+446,Styrbjörn Ragnarsson,Male,35.0,Hirdman,Hrafnkell,Iceland,Nidaros,None,25.8,2,4,1
+447,Torstein Sigurdsson,Male,36.0,Karl,Ormen Lange,Vinland,Borg,None,41.5,1,2,0
+448,Trygve Torsteinsson,Male,10.0,Karl,Bison,Vinland,Borg,None,2.0,1,0,0
+449,Geir Ormsson,Male,38.0,Hirdman,Bison,Lindisfarne,Kaupang,Chainmail,5.9,1,4,1
+450,Dag Grimsson,Male,25.0,Karl,Ormen Lange,Lindisfarne,Nidaros,Leather,16.9,3,2,0
+451,Halvor Ulfsson,Male,17.0,Thrall,Drakvinge,Lindisfarne,Kaupang,None,26.4,2,0,0
+452,Orm Ormsson,Male,21.0,Thrall,Bison,Iceland,Borg,None,9.6,1,2,0
+453,Ingrid Ragnarsdóttir,Female,39.0,Jarl,Drakvinge,Vinland,Nidaros,Lamellar,62.6,0,3,1
+454,Leif Ormsson,Male,31.0,Hirdman,Hrafnkell,Miklagard,Borg,Chainmail,31.6,0,1,1
+455,Ragnar Ragnarsson,Male,,Karl,Bison,Lindisfarne,Nidaros,Leather,8.6,2,2,1
+456,Halvor Ragnarsson,Male,30.0,Hirdman,Bison,Normandy,Nidaros,,68.3,2,4,1
+457,Trygve Haraldsson,Male,25.0,Hirdman,Drakvinge,Normandy,Nidaros,,31.3,2,5,1
+458,Svanhild Ketilsdóttir,Female,,Karl,Hrafnkell,Miklagard,Nidaros,None,37.3,3,2,1
+459,Kolbjørn Grimsson,Male,36.0,Jarl,Hrafnkell,Lindisfarne,Nidaros,Chainmail,75.9,1,6,1
+460,Liv Ulfsdóttir,Female,56.0,Karl,Drakvinge,Lindisfarne,Kaupang,,44.9,2,2,1
+461,Håkon Grimsson,Male,,Karl,Drakvinge,Miklagard,Nidaros,,48.5,1,1,0
+462,Sigurd Ragnarsson,Male,35.0,Karl,Drakvinge,Vinland,Nidaros,,21.7,3,0,0
+463,Liv Bjørnsdóttir,Female,34.0,Karl,Ormen Lange,Normandy,Kaupang,,14.8,0,4,0
+464,Bjørn Grimsson,Male,,Karl,Ormen Lange,Vinland,Nidaros,None,12.9,3,0,0
+465,Runa Ketilsdóttir,Female,26.0,Thrall,Drakvinge,Lindisfarne,Kaupang,None,10.0,3,0,1
+466,Sigurd Haraldsson,Male,,Karl,Sjøulven,Lindisfarne,Nidaros,Leather,34.9,1,2,0
+467,Eirik Grimsson,Male,28.0,Hirdman,Hrafnkell,Normandy,Nidaros,None,168.0,1,7,0
+468,Knut Ketilsson,Male,33.0,Karl,Drakvinge,Iceland,Borg,,13.6,0,2,0
+469,Åsa Ulfsdóttir,Female,26.0,Thrall,Bison,Iceland,Nidaros,None,9.6,1,0,1
+470,Åsa Ragnarsdóttir,Female,25.0,Karl,Hrafnkell,Miklagard,Kaupang,None,41.6,1,1,0
+471,Knut Haraldsson,Male,19.0,Thrall,Hrafnkell,Miklagard,Kaupang,,3.0,0,0,0
+472,Bergljot Haraldsdóttir,Female,36.0,Thrall,Ormen Lange,Normandy,Kaupang,None,2.7,0,0,1
+473,Jorunn Ketilsdóttir,Female,15.0,Karl,Bison,Iceland,Borg,,35.5,0,3,1
+474,Olav Grimsson,Male,42.0,Karl,Bison,Miklagard,,None,6.4,0,0,0
+475,Grim Ketilsson,Male,,Karl,Ormen Lange,Iceland,Borg,None,17.8,2,1,1
+476,Thorvald Sigurdsson,Male,30.0,Hirdman,Hrafnkell,Lindisfarne,Nidaros,Chainmail,32.4,0,9,1
+477,Harald Torsteinsson,Male,58.0,Jarl,Drakvinge,Lindisfarne,Nidaros,Lamellar,131.8,1,1,1
+478,Bjørn Grimsson,Male,31.0,Karl,Ormen Lange,Iceland,Nidaros,None,2.0,1,0,0
+479,Gunnar Bjørnsson,Male,32.0,Hirdman,Ormen Lange,Iceland,Kaupang,None,28.1,0,5,1
+480,Ragnhild Haraldsdóttir,Female,26.0,Thrall,Drakvinge,Iceland,,,2.0,3,0,0
+481,Gunnar Ketilsson,Male,42.0,Karl,Drakvinge,Iceland,Kaupang,Leather,21.5,0,0,0
+482,Erling Grimsson,Male,18.0,Thrall,Drakvinge,Iceland,Nidaros,None,15.2,2,1,0
+483,Dag Ormsson,Male,30.0,Hirdman,Ormen Lange,Miklagard,Kaupang,Leather,2.0,2,8,1
+484,Olav Ormsson,Male,36.0,Hirdman,Drakvinge,Normandy,Nidaros,None,2.3,1,3,1
+485,Gunnar Ragnarsson,Male,30.0,Karl,Sjøulven,Lindisfarne,Borg,,18.5,2,2,0
+486,Grim Torsteinsson,Male,,Thrall,Sjøulven,Vinland,Nidaros,None,19.2,0,1,0
+487,Styrbjörn Ormsson,Male,33.0,Karl,Hrafnkell,Iceland,Nidaros,,5.8,2,0,0
+488,Gunnar Ormsson,Male,27.0,Karl,Ormen Lange,Lindisfarne,Nidaros,None,56.3,1,0,0
+489,Åsa Ulfsdóttir,Female,,Karl,Bison,Normandy,Borg,Leather,36.2,3,2,1
+490,Orm Ormsson,Male,,Hirdman,Drakvinge,Lindisfarne,Nidaros,Leather,9.9,1,3,0
+491,Leif Ulfsson,Male,25.0,Karl,Drakvinge,Iceland,Nidaros,,4.6,2,2,0
+492,Geir Sigurdsson,Male,38.0,Karl,Hrafnkell,Lindisfarne,Kaupang,Leather,58.6,0,0,0
+493,Ivar Haraldsson,Male,30.0,Karl,Drakvinge,Lindisfarne,Nidaros,Leather,2.0,3,2,0
+494,Bjørn Ketilsson,Male,8.0,Thrall,Ormen Lange,Normandy,Nidaros,None,2.0,1,0,1
+495,Håkon Ulfsson,Male,25.0,Karl,Hrafnkell,Normandy,Borg,None,14.9,2,0,0
+496,Hilde Haraldsdóttir,Female,24.0,Thrall,Sjøulven,Lindisfarne,Nidaros,,6.9,2,1,0
+497,Sven Torsteinsson,Male,33.0,Karl,Hrafnkell,Normandy,Nidaros,None,15.2,0,2,0
+498,Dag Torsteinsson,Male,25.0,Karl,Ormen Lange,Lindisfarne,Borg,None,2.0,0,3,1
+499,Orm Torsteinsson,Male,24.0,Thrall,Ormen Lange,Normandy,Nidaros,,2.0,2,1,0
+500,Ragnhild Ketilsdóttir,Female,53.0,Karl,Hrafnkell,Iceland,Kaupang,Leather,6.3,1,0,1
